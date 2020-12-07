@@ -104,7 +104,7 @@ function drawImage() {
 }
 
 const png = new Image();
-png.src = 'mushroom.png'
+png.src = 'slime.png'
 
 window.addEventListener('load', (event) => {
     console.log('page has loaded');
